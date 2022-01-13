@@ -77,12 +77,12 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>28.0-jre</version>
+      <version>30.0-jre</version>
     </dependency>
     <dependency>
       <groupId>com.google.api-client</groupId>
       <artifactId>google-api-client</artifactId>
-      <version>1.30.2</version>
+      <version>1.33.0</version>
     </dependency>
     <dependency>
       <groupId>commons-cli</groupId>
