@@ -29,7 +29,7 @@
     <groupId>com.google.cloud.samples</groupId>
     <artifactId>shared-configuration</artifactId>
     <version>1.0.11</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <properties>
@@ -53,7 +53,7 @@
     <dependency>
       <groupId>io.opencensus</groupId>
       <artifactId>opencensus-impl</artifactId>
-      <version>0.12.2</version>
+      <version>0.28.1</version>
       <scope>runtime</scope>
     </dependency>
     <!-- [END trace_setup_java_maven] -->
