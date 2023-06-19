@@ -63,7 +63,7 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-pubsub</artifactId>
-      <version>1.83.0</version>
+      <version>1.102.0</version>
     </dependency>
     <dependency>
       <groupId>com.google.oauth-client</groupId>
@@ -73,7 +73,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>23.0</version>
+      <version>32.0.0-android</version>
     </dependency>
     <dependency>
       <groupId>com.google.api-client</groupId>
