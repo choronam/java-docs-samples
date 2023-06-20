@@ -35,7 +35,7 @@
   <groupId>com.example.appengine</groupId>
   <artifactId>appengine-guestbook-cloud-datastore</artifactId>
   <properties>
-    <guava.version>19.0</guava.version>
+    <guava.version>32.0.0-android</guava.version>
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.source>1.8</maven.compiler.source>
   </properties>
@@ -68,7 +68,7 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud</artifactId>
-      <version>0.4.0</version>
+      <version>0.5.1</version>
     </dependency>
 
     <dependency>
