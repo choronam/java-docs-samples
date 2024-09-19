@@ -36,7 +36,7 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-asset</artifactId>
-      <version>0.106.0-beta</version>
+      <version>2.5.0</version>
     </dependency>
     <!-- [END asset_java_dependencies] -->
 
@@ -62,7 +62,7 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-pubsub</artifactId>
-      <version>1.88.0</version>
+      <version>1.102.0</version>
     </dependency>
     <dependency>
       <groupId>com.google.cloud</groupId>
